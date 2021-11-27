@@ -21,5 +21,6 @@ Program that acts kinda like a shortcut for every picked programs. And in the fu
 - [ ] Limit the minimum window transparency (it's anoying puting it to low and not being able to change it because you can't see literaly nothing)
 - [ ] Fix start window (for some reason the start window option doesn't work, it will allways open in recent)
 - [ ] Disable blur from icons (some option in add window that remove that blur for the icons, idk why whould you do that but whatever)
+
 I was thinking of some things like showing the recent programs when right click on taskbar, but I don't think that's really usefull.
 Well, **any suggestion is welcome**.
