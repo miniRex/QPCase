@@ -31,5 +31,3 @@ _Image from [version 1.2](https://github.com/miniRex/QPCase/releases/tag/1.2 "1.
 
 I was thinking of some things like showing the recent programs when right click on taskbar, but I don't think that's really usefull.
 Well, **any suggestion is welcome**.
-
-<a href="https://sourceforge.net/projects/qpcase/files/latest/download"><img alt="Download QPCase" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
