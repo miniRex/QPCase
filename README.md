@@ -1,7 +1,7 @@
 # QPCase
 Program that acts kinda like a shortcut for every picked programs. And in the future maybe it will be able to run more complex things, like a collection of programs, or programs and commands, idk. This thing is actually useful if you don't want your desktop to look like there was a natural disaster, I actually use it in my computer :)
 
-![image](https://user-images.githubusercontent.com/59940124/143682698-84a28949-fc8f-41e4-9360-fe6271f6c3df.png)
+![image](https://user-images.githubusercontent.com/59940124/143682714-b14109f9-fa40-40b6-9179-a851d742465a.png)
 
 ## PROGRESS
 - [ ] Elapsed time in program (hours & minutes)
