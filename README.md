@@ -26,6 +26,7 @@ _Image from [version 1.2](https://github.com/miniRex/QPCase/releases/tag/1.2 "1.
 - [ ] Limit the minimum window transparency (it's anoying puting it to low and not being able to change it because you can't see literaly nothing)
 - [ ] Fix start window (for some reason the start window option doesn't work, it will allways open in recent)
 - [ ] Disable blur from icons (some option in add window that remove that blur for the icons, idk why whould you do that but whatever)
+- [ ] Edit program data (an option to edit an existing program data without deleting it)
 
 I was thinking of some things like showing the recent programs when right click on taskbar, but I don't think that's really usefull.
 Well, **any suggestion is welcome**.
