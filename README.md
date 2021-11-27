@@ -6,7 +6,7 @@ Program that acts kinda like a shortcut for every picked programs. And in the fu
 
 _Image from [version 1.2](https://github.com/miniRex/QPCase/releases/tag/1.2 "1.2 Release")_
 
-## PROGRESS
+## FUTURE UPDATES
 - [ ] Elapsed time in program (hours & minutes)
 - [ ] Program collections (running a multiple programs at once)
 - [ ] Execution commands (not really sure what this will do)
