@@ -4,7 +4,7 @@ Program that acts kinda like a shortcut for every picked programs. And in the fu
 ![image](https://user-images.githubusercontent.com/59940124/143682714-b14109f9-fa40-40b6-9179-a851d742465a.png)
 
 
-_Image from version 1.2_
+_Image from [version 1.2](https://github.com/miniRex/QPCase/releases/tag/1.2 "1.2 Release")_
 
 ## PROGRESS
 - [ ] Elapsed time in program (hours & minutes)
