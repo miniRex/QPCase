@@ -30,6 +30,7 @@ _Image from [version 1.2](https://github.com/miniRex/QPCase/releases/tag/1.2 "1.
 - [ ] Edit program data (an option to edit an existing program data without deleting it)
 - [ ] Custom names (option for using custom names instead of the file name)
 - [ ] Update message (a message that appear when is an update aviable, and an option to disable that messages)
+- [ ] Auto file fixing (something that fix error in files, like invalid settings, unexisiting programs...)
 
 I was thinking of some things like showing the recent programs when right click on taskbar, but I don't think that's really usefull.
 Well, **any suggestion is welcome**.
