@@ -32,6 +32,8 @@ _Image from [version 1.2](https://github.com/miniRex/QPCase/releases/tag/1.2 "1.
 - [ ] Update message (a message that appear when is an update aviable, and an option to disable that messages)
 - [ ] Auto file fixing (something that fix error in files, like invalid settings, unexisiting programs...)
 
+**Version 1.3 is in progress, it will come out soon.**
+
 I was thinking of some things like showing the recent programs when right click on taskbar, but I don't think that's really usefull.
 Well, **any suggestion is welcome**.
 
