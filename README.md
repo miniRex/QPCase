@@ -12,7 +12,7 @@ _Image from [version 1.2](https://github.com/miniRex/QPCase/releases/tag/1.2 "1.
 - [ ] Execution commands (not really sure what this will do)
 - [ ] Auto data validation (validate the data integrity and fix progrems without manual interaction)
 - [ ] More complex visual customization (add things like gradients, animated colors... that kind of things)
-- [ ] .jpg custom icons (allow the user to use custom icons with .jpg format)
+- [ ] **[IN PROGRESS]** .jpg custom icons (allow the user to use custom icons with .jpg format)
 - [ ] Find programs inside the computer (an option that search through your computer and shows a list of programs to add)
 - [ ] Custom option in windows file context menu (show a option like "add program" in the context menu of .exe files)
 - [ ] Search option in all programs tab (an option inside all programs tab, that allows to search a program by name)
@@ -26,11 +26,10 @@ _Image from [version 1.2](https://github.com/miniRex/QPCase/releases/tag/1.2 "1.
 - [ ] Limit the minimum window transparency (it's anoying puting it to low and not being able to change it because you can't see literaly nothing)
 - [ ] Fix start window (for some reason the start window option doesn't work, it will allways open in recent)
 - [ ] Disable blur from icons (some option in add window that remove that blur for the icons, idk why whould you do that but whatever)
-- [ ] Program info (a button that shows in a window all the info about the program)
-- [ ] Edit program data (an option to edit an existing program data without deleting it)
-- [ ] Custom names (option for using custom names instead of the file name)
-- [ ] Update message (a message that appear when is an update aviable, and an option to disable that messages)
-- [ ] Auto file fixing (something that fix error in files, like invalid settings, unexisiting programs...)
+- [ ] **[IN PROGRESS]** Program info (a button that shows in a window all the info about the program)
+- [ ] **[IN PROGRESS]** Edit program data (an option to edit an existing program data without deleting it)
+- [ ] **[IN PROGRESS]** Custom names (option for using custom names instead of the file name)
+- [ ] **[IN PROGRESS]** Update message (a message that appear when is an update aviable, and an option to disable that messages)
 
 **Version 1.3 is in progress, it will come out soon.**
 
