@@ -11,7 +11,7 @@ _Image from [version 1.3](https://github.com/miniRex/QPCase/releases/tag/1.3 "1.
 - [ ] Execution commands (not really sure what this will do)
 - [ ] Auto data validation (validate the data integrity and fix progrems without manual interaction)
 - [ ] More complex visual customization (add things like gradients, animated colors... that kind of things)
-- [ ] **[IN PROGRESS]** .jpg custom icons (allow the user to use custom icons with .jpg format)
+- [x] .jpg custom icons (allow the user to use custom icons with .jpg format)
 - [ ] Find programs inside the computer (an option that search through your computer and shows a list of programs to add)
 - [ ] Custom option in windows file context menu (show a option like "add program" in the context menu of .exe files)
 - [ ] Search option in all programs tab (an option inside all programs tab, that allows to search a program by name)
@@ -23,14 +23,14 @@ _Image from [version 1.3](https://github.com/miniRex/QPCase/releases/tag/1.3 "1.
 - [ ] Transparency in custom icons (well, right now the custom icons convert the transparent pixels into black pixels, soo I'll fix it)
 - [ ] Max custom icon resolution (an option to limit the max custom resolution, this is usefull for better performance)
 - [ ] Limit the minimum window transparency (it's anoying puting it to low and not being able to change it because you can't see literaly nothing)
-- [ ] Fix start window (for some reason the start window option doesn't work, it will allways open in recent)
+- [x] Fix start window (for some reason the start window option doesn't work, it will allways open in recent)
 - [ ] Disable blur from icons (some option in add window that remove that blur for the icons, idk why whould you do that but whatever)
-- [ ] **[IN PROGRESS]** Program info (a button that shows in a window all the info about the program)
-- [ ] **[IN PROGRESS]** Edit program data (an option to edit an existing program data without deleting it)
-- [ ] **[IN PROGRESS]** Custom names (option for using custom names instead of the file name)
-- [ ] **[IN PROGRESS]** Update message (a message that appear when is an update aviable, and an option to disable that messages)
+- [x] Program info (a button that shows in a window all the info about the program)
+- [x] Edit program data (an option to edit an existing program data without deleting it)
+- [x] Custom names (option for using custom names instead of the file name)
+- [x] Update message (a message that appear when is an update aviable, and an option to disable that messages)
 
-**Version 1.3 is in progress, it will come out soon.**
+**Version 1.3 is finished and published, please give me every feedback possible.**
 
 I was thinking of some things like showing the recent programs when right click on taskbar, but I don't think that's really usefull.
 Well, **any suggestion is welcome**.
