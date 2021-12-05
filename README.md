@@ -1,10 +1,10 @@
 # QPCase
 Program that acts kinda like a shortcut for every picked programs. And in the future maybe it will be able to run more complex things, like a collection of programs, or programs and commands, idk. This thing is actually useful if you don't want your desktop to look like there was a natural disaster, I actually use it in my computer :)
 
-![image](https://user-images.githubusercontent.com/59940124/143682714-b14109f9-fa40-40b6-9179-a851d742465a.png)
+![image](https://user-images.githubusercontent.com/59940124/144728558-a325d751-f44a-44ac-bd31-db95f6449e5e.png)
 
 
-_Image from [version 1.2](https://github.com/miniRex/QPCase/releases/tag/1.2 "1.2 Release")_
+_Image from [version 1.3](https://github.com/miniRex/QPCase/releases/tag/1.3 "1.3 Release")_
 
 ## FUTURE UPDATES
 - [ ] Program collections (running a multiple programs at once)
