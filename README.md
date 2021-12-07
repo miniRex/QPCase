@@ -30,7 +30,7 @@ _Image from [version 1.3](https://github.com/miniRex/QPCase/releases/tag/1.3 "1.
 - [x] Custom names (option for using custom names instead of the file name)
 - [x] Update message (a message that appear when is an update aviable, and an option to disable that messages)
 
-**Version 1.3 is finished and published, please give me every feedback possible.**
+**Please give me every feedback possible.**
 
 I was thinking of some things like showing the recent programs when right click on taskbar, but I don't think that's really usefull.
 Well, **any suggestion is welcome**.
